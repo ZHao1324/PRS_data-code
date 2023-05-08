@@ -1,2 +1,2 @@
 # PRS_data-code
-Detailed data and code of Phase guided sampling.
+Detailed original data and analysis code of Phase guided sampling microscopy system. 
